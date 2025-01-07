@@ -142,11 +142,3 @@ curl -X GET http://127.0.0.1:8000/todo -H "x-access-token: your-jwt-token"
 - **Postman**: API testing and debugging tool.
 - **HTTP Methods**: Core API operations (GET, POST, PUT, DELETE).
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contributions
-Contributions are welcome! Feel free to submit issues or pull requests.
-
----
-For more information, contact the project maintainer.
