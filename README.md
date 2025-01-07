@@ -131,6 +131,17 @@ curl -X GET http://127.0.0.1:8000/todo -H "x-access-token: your-jwt-token"
 - `SECRET_KEY`: Secret key for encoding JWT tokens.
 - `SQLALCHEMY_DATABASE_URI`: Database URI (default: SQLite).
 
+## Technologies Used
+
+- **Python**: Core programming language for the application.
+- **Flask**: Micro web framework used for creating APIs and managing routes.
+- **JWT Authentication**: Secure user authentication and session management.
+- **Flask-SQLAlchemy**: ORM (Object Relational Mapper) for database interaction.
+- **SQLite**: Lightweight database for storing user and todo data.
+- **Werkzeug Security**: Secure password hashing and verification.
+- **Postman**: API testing and debugging tool.
+- **HTTP Methods**: Core API operations (GET, POST, PUT, DELETE).
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
