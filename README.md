@@ -33,6 +33,8 @@ This repository contains a Flask application that provides authentication using 
 - Python 3.x
 - Flask
 - SQLite (default database)
+- OR RUN COMMAND:
+  - pip install requirements.txt
 
 ### Installation
 1. Clone the repository:
